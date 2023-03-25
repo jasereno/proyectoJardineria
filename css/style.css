@@ -1,0 +1,15 @@
+.pb-5{
+    margin-bottom: 200px;
+}
+
+.carousel-item{
+    height: 600px;
+    align-items: center;
+   
+}
+
+#btnCerrar{
+    background-color: aqua;
+    color: black;    
+    
+}
